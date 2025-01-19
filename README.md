@@ -12,12 +12,7 @@ This repository contains hands on tutorials on fine tuning LLMs using different 
 
 ## Instruction Tuning ##
 * [Fine tuning Base LLAMA as Instruct Model](https://www.kaggle.com/code/ak2033/fine-tuning-base-llama-as-chat-model)
-
-
-## Knowledge distillation ##
-
-* [Fine tuning BERT variants for fake news detection](https://www.kaggle.com/code/ak2033/fine-tuning-bert-for-fake-news-detection)
-* [Fine tuning DistilBERT variants for restaurant search NER](https://www.kaggle.com/code/ak2033/fine-tuning-distilbert-for-restaurant-search-ner)
+* [Fine tuning LLAMA3 using transformers](https://www.kaggle.com/code/ak2033/fine-tuning-llama3-using-transformers)
 
 
 ## Full Fine Tuning ##
@@ -26,5 +21,14 @@ This repository contains hands on tutorials on fine tuning LLMs using different 
 ## Fine tuning vision models ##
 * [Vision transformer fine tuning](https://www.kaggle.com/code/ak2033/vision-transformer-fine-tuning)
 
+## Fine tuning quantized models ##
+* [Fine tuning Falcon 7B quantized model ](https://www.kaggle.com/code/ak2033/fine-tuning-a-quantized-model)
+
+## Fine tuning for specific use cases ##
+* [Fine tuning T5 for custom summarization](https://www.kaggle.com/code/ak2033/fine-tuning-t5-for-custom-summarization)
+* [Fine tuning roberta base for financial sentiment classification](https://www.kaggle.com/code/ak2033/fine-tune-for-financial-sentiment-classificationi)
+* [Fine tuning BERT for sentiment classification](https://www.kaggle.com/code/ak2033/fine-tuning-bert-for-sentiment-classification)
+* [Fine tuning BERT variants for fake news detection](https://www.kaggle.com/code/ak2033/fine-tuning-bert-for-fake-news-detection)
+* [Fine tuning DistilBERT variants for restaurant search NER](https://www.kaggle.com/code/ak2033/fine-tuning-distilbert-for-restaurant-search-ner)
 
 
