@@ -5,7 +5,7 @@ This repository contains hands on tutorials on fine tuning LLMs using different 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
 
 ## Parameter Efficient Fine Tuning (PEFT) ## 
-* [PEFT for custom summarization] (https://www.kaggle.com/code/ak2033/peft-for-summarization)
+* [PEFT for custom summarization](https://www.kaggle.com/code/ak2033/peft-for-summarization)
 
 
 ## Instruction Tuning ##
