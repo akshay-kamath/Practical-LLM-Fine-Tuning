@@ -35,5 +35,5 @@ This repository contains hands on tutorials on fine tuning LLMs using different 
 
 * [Fine tuning Open AI documentation](https://platform.openai.com/docs/guides/fine-tuning)
 * [LLAMA 3 fine tuning with autotrain by hugging face](https://ubiai.tools/how-to-fine-tune-llama3-using-autotrain-a-step-by-step-guide/)
-* [LLAMA fine tuning on alpaca dataset using unsloth]()
+* [LLAMA fine tuning on alpaca dataset using unsloth](https://www.kaggle.com/code/ak2033/llama3-fine-tuning-using-unsloth)
 
