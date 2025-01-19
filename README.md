@@ -31,4 +31,9 @@ This repository contains hands on tutorials on fine tuning LLMs using different 
 * [Fine tuning BERT variants for fake news detection](https://www.kaggle.com/code/ak2033/fine-tuning-bert-for-fake-news-detection)
 * [Fine tuning DistilBERT variants for restaurant search NER](https://www.kaggle.com/code/ak2033/fine-tuning-distilbert-for-restaurant-search-ner)
 
+## Reference links ##
+
+* [Fine tuning Open AI documentation](https://platform.openai.com/docs/guides/fine-tuning)
+* [LLAMA 3 fine tuning with autotrain by hugging face](https://ubiai.tools/how-to-fine-tune-llama3-using-autotrain-a-step-by-step-guide/)
+* [LLAMA fine tuning on alpaca dataset using unsloth]()
 
