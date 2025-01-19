@@ -29,7 +29,7 @@ This repository contains hands on tutorials on fine tuning LLMs using different 
 * [Fine tuning roberta base for financial sentiment classification](https://www.kaggle.com/code/ak2033/fine-tune-for-financial-sentiment-classificationi)
 * [Fine tuning BERT for sentiment classification](https://www.kaggle.com/code/ak2033/fine-tuning-bert-for-sentiment-classification)
 * [Fine tuning BERT variants for fake news detection](https://www.kaggle.com/code/ak2033/fine-tuning-bert-for-fake-news-detection)
-* [Fine tuning DistilBERT variants for restaurant search NER](https://www.kaggle.com/code/ak2033/fine-tuning-distilbert-for-restaurant-search-ner)
+* [Fine tuning DistilBERT variants for named entity recognition ](https://www.kaggle.com/code/ak2033/fine-tuning-distilbert-for-restaurant-search-ner)
 
 ## Reference links ##
 
